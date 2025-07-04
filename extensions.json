@@ -507,6 +507,15 @@
   "janisdd.vscode-edit-csv": {
     "repository": "https://github.com/janisdd/vscode-edit-csv"
   },
+  "Jannchie.codetime": {
+    "repository": "https://github.com/datreks/codetime-vscode"
+  },
+  "jannchie.ruff-ignore-explainer" {
+    "repository": "https://github.com/Jannchie/ruff-ignore-explainer"
+  },
+  "jannchie.theme-jannchie": {
+    "repository": "https://github.com/Jannchie/vscode-theme-jannchie"
+  },
   "jebbs.markdown-extended": {
     "repository": "https://github.com/qjebbs/vscode-markdown-extended"
   },
